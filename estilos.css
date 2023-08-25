@@ -1,0 +1,34 @@
+html {
+  box-sizing: border-box;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+
+.body{background-image: url(asset/artigo-7.jpg);background-size: cover;background-repeat: no-repeat;}
+
+.formato-1 {margin:0%;}
+
+.color-1{color: rgb(250, 250, 250);margin-top: 30px;}
+
+.background-1{background-image: url(asset/aritgo\ 6.jpg);width: 100%;height: 450px;background-size: cover;background-repeat: no-repeat;margin: 0%;justify-content: center;display: flex;flex-direction:column;}
+
+.orden-1{display: flex; justify-content: center;align-items: center;}
+.formato-2{width:250px ; flex-direction:co;display: flex;margin: 10px;}
+
+.orden-2{margin-top: 10px;flex-direction: column;display: flex;justify-content: center;width: 100%;text-align: center;align-items: center;}
+
+.color-2{color: rgb(0, 0, 0);margin:10px;margin-top: 10px;}
+
+.formato-3{background-color: gainsboro;}
+
+.formato-4{width: 300px;margin:20px;}
+
+.orden-3{width: 300px;flex-direction:column;border-radius: 0.6em;}
+
+.formato-5{margin top:30px}
+@media(max-width:960px){.formato-5{display: flex;justify-content: center;align-items: center;flex-direction: column;}}
+
+
+
