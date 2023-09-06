@@ -27,9 +27,9 @@ html {
 
 .formato-4{margin:20px;width:400px;display: flex;justify-content: center;}
 
-.orden-4{width: 300px;display: flex;text-align: center;}
+.orden-4{width: 300px;display: flex;text-align: center;justify-content: center;align-items: center;}
 
-.orden-3{width: 400px;flex-direction:column;border-radius: 0.6em;}
+.orden-3{width: 300px;flex-direction:column;border-radius: 0.6em;justify-content: center;align-items: center;}
 
 .formato-5{display: flex;flex-wrap: wrap;justify-content: center;align-items: center;}
 @media(max-width:960px){.formato-5{display: flex;justify-content: center;align-items: center;flex-direction:column;}}
