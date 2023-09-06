@@ -12,12 +12,14 @@ html {
 
 .color-1{color: rgb(250, 250, 250);margin-top: 30px;}
 
-.background-1{background-image: url(asset/artigo-1.jpg);width: 100%;height: 450px;background-size: cover;background-repeat: no-repeat;margin: 0%;justify-content: center;display: flex;flex-direction:column;}
+.background-1{background-image: url(asset/artigo-12.jpg);width: 100%;height: 600px;background-size: cover;background-repeat: no-repeat;margin: 0%;justify-content: center;display: flex;flex-direction:column;}
 
 .orden-1{display: flex; justify-content: center;align-items: center;}
 .formato-2{width:250px ; flex-direction:co;display: flex;margin: 10px;}
 
-.orden-2{margin-top: 10px;flex-direction: column;display: flex;justify-content: center;width: 100%;text-align: center;align-items: center;}
+.orden-2{margin-top: 10px;flex-direction: column;display: flex;justify-content: center;width:auto;text-align: center;align-items: center;}
+
+.orden-0{width:300px;display: flex;flex-wrap: wrap;}
 
 .color-2{color: rgb(0, 0, 0);margin:10px;margin-top: 10px;}
 
@@ -33,6 +35,8 @@ html {
 @media(max-width:960px){.formato-5{display: flex;justify-content: center;align-items: center;flex-direction:column;}}
 
 .orden-5{display: flex;justify-content: center;border-radius: 3em;width: auto;background-position: 0%;}
+
+.imagen-1{width: 70%;}
 
 .formato-6{margin-top: 2em;display: flex;justify-content: center;text-align: center;flex-direction: column;margin: 0%;background-color: black;height:;}
 
