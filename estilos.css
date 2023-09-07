@@ -55,13 +55,13 @@ html {
 
 .formato-8{display: flex;flex-wrap: wrap;justify-content: center;}
 
-.formato-9{display: flex;justify-content: center;align-items: center;text-align: center;}
+.formato-9{display: flex;justify-content: center;align-items: center;text-align: center;color: azure;}
 
-.formato-10{background-image: url(asset/artigo-13.jpg);background-repeat: no-repeat;background-size: cover;margin-top: 0%;height: 600px;width: 100% ;flex-wrap: wrap;justify-content: center;}
+.formato-10{background-image: url(asset/artigo-13.jpg);background-repeat: no-repeat;background-size: 100%;margin-top: 0%;height: 600px;width: 100% ;flex-wrap: wrap;justify-content: center;}
 
 
 
-.orden-11{display: flex;margin-top: 1.5em;justify-content: center;align-items: center;}
+.orden-11{display: flex;margin-top: 1.5em;justify-content: center;align-items: center;background-color: black;color: azure;}
 
 
 
