@@ -27,7 +27,9 @@ html {
 
 .formato-4{margin:20px;width:320px;display: flex;justify-content: center;}
 
-.orden-4{width: 300px;display: flex;justify-content: center;align-items: center;text-align: center;}
+.orden-41{display: flex;width: 30%;height: 30%;}
+
+.orden-4{width: 300px;display: flex;justify-content: center;align-items: center;text-align: center;background-color: rgb(71, 63, 42);border-radius: 3em; padding: 2em;color: aliceblue;flex-direction: column;}
 
 .orden-3{width: 320px;flex-direction:column;border-radius: 0.6em;justify-content: center;align-items: center;}
 
@@ -61,7 +63,7 @@ html {
 
 
 
-.orden-11{display: flex;margin-top: 1.5em;justify-content: center;align-items: center;background-color: black;color: azure;}
+.orden-11{display: flex;margin-top: 1.5em;justify-content: center;align-items: center;background-color: rgb(71, 63, 42);color: azure;}
 
 
 
