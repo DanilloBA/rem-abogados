@@ -17,13 +17,13 @@ html {
 .background-1{background-image: url(asset/artigo-7.jpg);width: auto;height: 600px;background-size: cover;background-repeat: no-repeat;margin: 0%;justify-content: center;display: flex;flex-direction:column;}
 
 .orden-1{display: flex; justify-content: center;align-items: center;}
-.formato-2{width:250px ; flex-direction:co;display: flex;margin: 10px;}
+.formato-2{width:250px ; flex-direction:column;display: flex;margin: 10px;}
 
 .orden-2{margin-top: 10px;flex-direction: column;display: flex;justify-content: center;width:auto;text-align: center;align-items: center;}
 
 .orden-0{width:300px;display: flex;flex-wrap: wrap;}
 
-.color-2{color: rgb(0, 0, 0);margin:10px;margin-top: 10px;}
+.color-2{color: rgb(0, 0, 0);margin:0%;margin-top: 10px;}
 
 .formato-3{background-color: gainsboro;}
 
@@ -33,14 +33,14 @@ html {
 
 .orden-4{width: 300px;display: flex;justify-content: center;align-items: center;text-align: center;background-color: rgb(71, 63, 42);border-radius: 3em; padding: 2em;color: aliceblue;flex-direction: column;}
 
-.orden-3{width: 320px;flex-direction:column;border-radius: 0.6em;justify-content: center;align-items: center;}
+.orden-3{width: 300px;flex-direction:column;border-radius: 0.6em;justify-content: center;align-items: center;}
 
 .formato-5{display: flex;flex-wrap: wrap;justify-content: center;align-items: center;}
 @media(max-width:960px){.formato-5{display: flex;justify-content: center;align-items: center;flex-direction:column;}}
 
-.orden-5{display: flex;justify-content: center;border-radius: 3em;width: auto;background-position: 0%;}
+.orden-5{display: flex;justify-content: center;border-radius: 3em;width:auto;align-items: center;}
 
-.imagen-1{width: 75%;border-radius: 3em;}
+.imagen-1{width:70%;border-radius: 3em;}
 
 .formato-6{margin: top 5px;;display: flex;justify-content: center;text-align: center;flex-direction: column;margin: 0%;background-color: black;height:;}
 
@@ -50,16 +50,16 @@ html {
 
 .orden-71{margin: 02em;}
 
-.formato-7{background-image: url(asset/artigo12.jpg);background-repeat: no-repeat;background-size: cover;margin-top: 0%;height: 400px;width: 100% ;}
+.formato-7{background-image: url(asset/artigo12.jpg);background-repeat: no-repeat;background-size: cover;margin-top: 0%;height: auto;width: auto;}
 
-.orden-8{display: flex;flex-direction: row;margin: auto;}
+.orden-8{display: flex;flex-direction: row;justify-content: center;align-items: center;}
 
-.orden-9{margin: 1.5em;background-color: rgba(240, 248, 255, 0.404);border-radius: 0.3em;padding: 0.5em;text-align: center;}
+.orden-9{margin: 0.5em;background-color: rgba(240, 248, 255, 0.404);border-radius: 0.3em;padding: 0.2em;text-align: center;flex-direction: column;display: flex;}
 
-.color-3{color: aliceblue;display: flex;text-align: center;justify-content: center;}
+.color-3{color: aliceblue;display: flex;text-align: center;justify-content: center;width: auto;}
 
 
-.formato-8{display: flex;flex-wrap: wrap;justify-content: center;}
+.formato-8{display: flex;flex-wrap: wrap;justify-content: center;align-items: center;}
 
 .formato-9{display: flex;justify-content: center;align-items: center;text-align: center;color: azure;}
 
