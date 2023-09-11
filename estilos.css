@@ -67,7 +67,9 @@ html {
 
 .formato-9{display: flex;justify-content: center;align-items: center;text-align: center;color: azure;}
 
-.formato-10{background-image: url(asset/artigo-13.jpg);background-repeat: no-repeat;background-size: 100%;margin-top: 0%;height: 600px;width: 100% ;flex-wrap: wrap;justify-content: center;}
+.formato-10{background-image: url(asset/artigo-13.jpg);background-repeat: no-repeat;background-size: 100%;margin-top: 0%;height:600px;width: 100% ;flex-wrap: wrap;justify-content: center;}
+
+@media(max-width:750px){.formato-10{height: 300px;}}
 
 
 
