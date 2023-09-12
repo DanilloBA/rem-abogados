@@ -21,6 +21,8 @@ html {
 
 .orden-2{margin-top: 10px;flex-direction: column;display: flex;justify-content: center;width:auto;text-align: center;align-items: center;}
 
+.atencion{width: 320px;}
+
 .orden-0{width:300px;display: flex;flex-wrap: wrap;}
 
 .color-2{color: rgb(0, 0, 0);margin:0%;margin-top: 10px;}
@@ -68,6 +70,8 @@ html {
 .formato-9{display: flex;justify-content: center;align-items: center;text-align: center;color: azure;}
 
 .formato-10{background-image: url(asset/artigo-13.jpg);background-repeat: no-repeat;background-size: 100%;margin-top: 0%;height:600px;width: 100% ;flex-wrap: wrap;justify-content: center;}
+
+.formato-101{background-image: url(asset/artigo\ 19.jpg);background-repeat: no-repeat;background-size: 100%;margin-top: 0%;height:50px;width: 100% ;flex-wrap: wrap;justify-content: center;}
 
 @media(max-width:750px){.formato-10{height: 300px;}}
 
