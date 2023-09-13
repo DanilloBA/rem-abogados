@@ -14,12 +14,12 @@ html {
 
 .color-1{color: rgb(250, 250, 250);margin-top: 30px;}
 
-.background-1{background-image: url(asset/artigo-7.jpg);width: auto;height: 600px;background-size: cover;background-repeat: no-repeat;margin: 0%;justify-content: center;display: flex;flex-direction:column;}
+.background-1{background-image: url(asset/artigo-7.jpg);width: auto;height: 450px;background-size: cover;background-repeat: no-repeat;margin: 0%;justify-content: center;display: flex;flex-direction:column;}
 
 .orden-1{display: flex; justify-content: center;align-items: center;}
 .formato-2{width:250px ; flex-direction:column;display: flex;margin: 10px;}
 
-.orden-2{margin-top: 10px;flex-direction: column;display: flex;justify-content: center;width:auto;text-align: center;align-items: center;}
+.orden-2{margin-top:0%;flex-direction: column;display: flex;justify-content: center;width:auto;text-align: center;align-items: center;}
 
 .atencion{width: 320px;}
 
@@ -69,11 +69,11 @@ html {
 
 .formato-9{display: flex;justify-content: center;align-items: center;text-align: center;color: azure;}
 
-.formato-10{background-image: url(asset/artigo-13.jpg);background-repeat: no-repeat;background-size: 100%;margin-top: 0%;height:600px;width: 100% ;flex-wrap: wrap;justify-content: center;}
+.formato-10{background-image: url(asset/artigo-13.jpg);background-repeat: no-repeat;background-size: 100%;margin-top: 50px;height:600px;width: 100% ;flex-wrap: wrap;justify-content: center;}
 
-.formato-101{background-image: url(asset/artigo\ 19.jpg);background-repeat: no-repeat;background-size: 100%;margin-top: 0%;height:50px;width: 100% ;flex-wrap: wrap;justify-content: center;}
+.formato-101{background-image: url(asset/artigo\ 19.jpg);background-repeat: no-repeat;background-size: 100%;margin-top: 0%;height:40px;width: 100% ;flex-wrap: wrap;justify-content: center;margin-top: 0%;}
 
-@media(max-width:750px){.formato-10{height: 300px;}}
+@media(max-width:750px){.formato-10{height: 200px;}}
 
 
 
