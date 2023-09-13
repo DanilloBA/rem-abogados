@@ -19,7 +19,7 @@ html {
 .orden-1{display: flex; justify-content: center;align-items: center;}
 .formato-2{width:250px ; flex-direction:column;display: flex;margin: 10px;}
 
-.orden-2{margin-top:0%;flex-direction: column;display: flex;justify-content: center;width:auto;text-align: center;align-items: center;}
+.orden-2{margin-top:75px;flex-direction: column;display: flex;justify-content: center;width:auto;text-align: center;align-items: center;}
 
 .atencion{width: 320px;}
 
@@ -71,7 +71,7 @@ html {
 
 .formato-10{background-image: url(asset/artigo-13.jpg);background-repeat: no-repeat;background-size: 100%;margin-top: 50px;height:600px;width: 100% ;flex-wrap: wrap;justify-content: center;}
 
-.formato-101{background-image: url(asset/artigo\ 19.jpg);background-repeat: no-repeat;background-size: 100%;margin-top: 0%;height:40px;width: 100% ;flex-wrap: wrap;justify-content: center;margin-top: 0%;}
+.formato-101{background-image: url(asset/artigo\ 19.jpg);background-repeat: no-repeat;background-size: 100%;margin-top: 0%;height:40px;width: 100% ;flex-wrap: wrap;justify-content: center;margin-top: 60px;}
 
 @media(max-width:750px){.formato-10{height: 200px;}}
 
